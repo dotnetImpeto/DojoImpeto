@@ -1,0 +1,7 @@
+D:\Dojo\DojoImpeto\telefone\dojoTelefone\dojoTelefone.Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Dojo\DojoImpeto\telefone\dojoTelefone\dojoTelefone.Test\bin\Debug\dojoTelefone.Test.dll
+D:\Dojo\DojoImpeto\telefone\dojoTelefone\dojoTelefone.Test\bin\Debug\dojoTelefone.Test.pdb
+D:\Dojo\DojoImpeto\telefone\dojoTelefone\dojoTelefone.Test\bin\Debug\dojoTelefone.dll
+D:\Dojo\DojoImpeto\telefone\dojoTelefone\dojoTelefone.Test\bin\Debug\dojoTelefone.pdb
+D:\Dojo\DojoImpeto\telefone\dojoTelefone\dojoTelefone.Test\obj\Debug\dojoTelefone.Test.dll
+D:\Dojo\DojoImpeto\telefone\dojoTelefone\dojoTelefone.Test\obj\Debug\dojoTelefone.Test.pdb

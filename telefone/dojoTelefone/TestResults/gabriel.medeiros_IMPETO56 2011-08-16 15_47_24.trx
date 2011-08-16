@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5cf9c2d7-d38f-4bd0-9304-e1ab463fb04e" name="gabriel.medeiros@IMPETO56 2011-08-16 15:47:24" runUser="IMPETO\gabriel.medeiros" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="9c0089db-48fd-4d0c-8664-f82eba3e21cb">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="gabriel.medeiros_IMPETO56 2011-08-16 15_47_24">
+      <DeploymentItem filename="D:\Dojo\DojoImpeto\telefone\dojoTelefone\dojoTelefone\bin\Debug\dojoTelefone.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-08-16T15:47:24.8083402-03:00" queuing="2011-08-16T15:47:24.8591182-03:00" start="2011-08-16T15:47:24.8688832-03:00" finish="2011-08-16T15:47:25.2467887-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="10" executed="10" passed="10" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Passsando_letra_C_retorna_numero_2" storage="d:\dojo\dojoimpeto\telefone\dojotelefone\dojotelefone.test\bin\debug\dojotelefone.test.dll" id="cced0b66-1e82-7460-cac2-eb024454e4e5">
+      <Execution id="a2bd4e14-fcab-428c-b246-fab084dcd5fd" />
+      <TestMethod codeBase="D:/Dojo/DojoImpeto/telefone/dojoTelefone/dojoTelefone.Test/bin/Debug/dojoTelefone.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="dojoTelefone.Test.TelefoneTest, dojoTelefone.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Passsando_letra_C_retorna_numero_2" />
+    </UnitTest>
+    <UnitTest name="Passsando_letras_11_retorna_numero_11" storage="d:\dojo\dojoimpeto\telefone\dojotelefone\dojotelefone.test\bin\debug\dojotelefone.test.dll" id="0b57162d-f215-5e8d-f877-2dd6aec6edc0">
+      <Execution id="5879ea80-be91-4996-b910-56d0cf94a4ce" />
+      <TestMethod codeBase="D:/Dojo/DojoImpeto/telefone/dojoTelefone/dojoTelefone.Test/bin/Debug/dojoTelefone.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="dojoTelefone.Test.TelefoneTest, dojoTelefone.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Passsando_letras_11_retorna_numero_11" />
+    </UnitTest>
+    <UnitTest name="Passsando_letra_E_retorna_numero_3" storage="d:\dojo\dojoimpeto\telefone\dojotelefone\dojotelefone.test\bin\debug\dojotelefone.test.dll" id="4d3045ae-0683-3586-3dcc-516d31b1985e">
+      <Execution id="ee3562ce-a3e3-4e55-ae83-fbaf6e045914" />
+      <TestMethod codeBase="D:/Dojo/DojoImpeto/telefone/dojoTelefone/dojoTelefone.Test/bin/Debug/dojoTelefone.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="dojoTelefone.Test.TelefoneTest, dojoTelefone.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Passsando_letra_E_retorna_numero_3" />
+    </UnitTest>
+    <UnitTest name="Passsando_letras_AA_retorna_numero_22" storage="d:\dojo\dojoimpeto\telefone\dojotelefone\dojotelefone.test\bin\debug\dojotelefone.test.dll" id="e77124bd-e570-83ed-9934-bb07799a5ab2">
+      <Execution id="b3cabab2-345c-4683-bbf2-3f2aaf45ffa3" />
+      <TestMethod codeBase="D:/Dojo/DojoImpeto/telefone/dojoTelefone/dojoTelefone.Test/bin/Debug/dojoTelefone.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="dojoTelefone.Test.TelefoneTest, dojoTelefone.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Passsando_letras_AA_retorna_numero_22" />
+    </UnitTest>
+    <UnitTest name="Passsando_letra_A_retorna_numero_2" storage="d:\dojo\dojoimpeto\telefone\dojotelefone\dojotelefone.test\bin\debug\dojotelefone.test.dll" id="e90b7508-50af-ea86-ae73-6cd0dbc6274d">
+      <Execution id="2408e52c-3330-44be-b698-abbefbc821d4" />
+      <TestMethod codeBase="D:/Dojo/DojoImpeto/telefone/dojoTelefone/dojoTelefone.Test/bin/Debug/dojoTelefone.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="dojoTelefone.Test.TelefoneTest, dojoTelefone.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Passsando_letra_A_retorna_numero_2" />
+    </UnitTest>
+    <UnitTest name="Passsando_letra_B_retorna_numero_2" storage="d:\dojo\dojoimpeto\telefone\dojotelefone\dojotelefone.test\bin\debug\dojotelefone.test.dll" id="639f1d21-bfe6-ef7c-722e-b05bb8459aeb">
+      <Execution id="2b8a02cf-1756-4fb3-8f50-a37c56338154" />
+      <TestMethod codeBase="D:/Dojo/DojoImpeto/telefone/dojoTelefone/dojoTelefone.Test/bin/Debug/dojoTelefone.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="dojoTelefone.Test.TelefoneTest, dojoTelefone.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Passsando_letra_B_retorna_numero_2" />
+    </UnitTest>
+    <UnitTest name="Passsando_letra_F_retorna_numero_3" storage="d:\dojo\dojoimpeto\telefone\dojotelefone\dojotelefone.test\bin\debug\dojotelefone.test.dll" id="23df0b99-7398-3a39-c637-b5728f7a7dcc">
+      <Execution id="402e2b4b-ae5a-40b6-ad24-4e698a59ccc5" />
+      <TestMethod codeBase="D:/Dojo/DojoImpeto/telefone/dojoTelefone/dojoTelefone.Test/bin/Debug/dojoTelefone.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="dojoTelefone.Test.TelefoneTest, dojoTelefone.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Passsando_letra_F_retorna_numero_3" />
+    </UnitTest>
+    <UnitTest name="Passsando_um_numero_retorna_um_numero" storage="d:\dojo\dojoimpeto\telefone\dojotelefone\dojotelefone.test\bin\debug\dojotelefone.test.dll" id="199d6954-928d-ed57-3e36-6a32e4aa3be9">
+      <Execution id="6a835eea-f839-4f6b-acd4-4502fb770ee6" />
+      <TestMethod codeBase="D:/Dojo/DojoImpeto/telefone/dojoTelefone/dojoTelefone.Test/bin/Debug/dojoTelefone.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="dojoTelefone.Test.TelefoneTest, dojoTelefone.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Passsando_um_numero_retorna_um_numero" />
+    </UnitTest>
+    <UnitTest name="Passsando_letras_1A_retorna_numero_12" storage="d:\dojo\dojoimpeto\telefone\dojotelefone\dojotelefone.test\bin\debug\dojotelefone.test.dll" id="412c9125-d469-dc8f-e514-ee824e909634">
+      <Execution id="e6c3eeda-5f41-484a-99c2-058ac94165c0" />
+      <TestMethod codeBase="D:/Dojo/DojoImpeto/telefone/dojoTelefone/dojoTelefone.Test/bin/Debug/dojoTelefone.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="dojoTelefone.Test.TelefoneTest, dojoTelefone.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Passsando_letras_1A_retorna_numero_12" />
+    </UnitTest>
+    <UnitTest name="Passsando_letra_D_retorna_numero_3" storage="d:\dojo\dojoimpeto\telefone\dojotelefone\dojotelefone.test\bin\debug\dojotelefone.test.dll" id="5639571a-b0bd-ebff-f064-cbd0923ef4ef">
+      <Execution id="a2da2c54-0d3d-4195-9d81-b8cb218c6498" />
+      <TestMethod codeBase="D:/Dojo/DojoImpeto/telefone/dojoTelefone/dojoTelefone.Test/bin/Debug/dojoTelefone.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="dojoTelefone.Test.TelefoneTest, dojoTelefone.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Passsando_letra_D_retorna_numero_3" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0b57162d-f215-5e8d-f877-2dd6aec6edc0" executionId="5879ea80-be91-4996-b910-56d0cf94a4ce" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="199d6954-928d-ed57-3e36-6a32e4aa3be9" executionId="6a835eea-f839-4f6b-acd4-4502fb770ee6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="23df0b99-7398-3a39-c637-b5728f7a7dcc" executionId="402e2b4b-ae5a-40b6-ad24-4e698a59ccc5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="412c9125-d469-dc8f-e514-ee824e909634" executionId="e6c3eeda-5f41-484a-99c2-058ac94165c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4d3045ae-0683-3586-3dcc-516d31b1985e" executionId="ee3562ce-a3e3-4e55-ae83-fbaf6e045914" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5639571a-b0bd-ebff-f064-cbd0923ef4ef" executionId="a2da2c54-0d3d-4195-9d81-b8cb218c6498" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="639f1d21-bfe6-ef7c-722e-b05bb8459aeb" executionId="2b8a02cf-1756-4fb3-8f50-a37c56338154" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cced0b66-1e82-7460-cac2-eb024454e4e5" executionId="a2bd4e14-fcab-428c-b246-fab084dcd5fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e77124bd-e570-83ed-9934-bb07799a5ab2" executionId="b3cabab2-345c-4683-bbf2-3f2aaf45ffa3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e90b7508-50af-ea86-ae73-6cd0dbc6274d" executionId="2408e52c-3330-44be-b698-abbefbc821d4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5879ea80-be91-4996-b910-56d0cf94a4ce" testId="0b57162d-f215-5e8d-f877-2dd6aec6edc0" testName="Passsando_letras_11_retorna_numero_11" computerName="IMPETO56" duration="00:00:00.0150534" startTime="2011-08-16T15:47:24.8806012-03:00" endTime="2011-08-16T15:47:25.1110552-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5879ea80-be91-4996-b910-56d0cf94a4ce">
+    </UnitTestResult>
+    <UnitTestResult executionId="6a835eea-f839-4f6b-acd4-4502fb770ee6" testId="199d6954-928d-ed57-3e36-6a32e4aa3be9" testName="Passsando_um_numero_retorna_um_numero" computerName="IMPETO56" duration="00:00:00.0061089" startTime="2011-08-16T15:47:25.1354677-03:00" endTime="2011-08-16T15:47:25.1462092-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6a835eea-f839-4f6b-acd4-4502fb770ee6">
+    </UnitTestResult>
+    <UnitTestResult executionId="402e2b4b-ae5a-40b6-ad24-4e698a59ccc5" testId="23df0b99-7398-3a39-c637-b5728f7a7dcc" testName="Passsando_letra_F_retorna_numero_3" computerName="IMPETO56" duration="00:00:00.0011577" startTime="2011-08-16T15:47:25.1530447-03:00" endTime="2011-08-16T15:47:25.1579272-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="402e2b4b-ae5a-40b6-ad24-4e698a59ccc5">
+    </UnitTestResult>
+    <UnitTestResult executionId="e6c3eeda-5f41-484a-99c2-058ac94165c0" testId="412c9125-d469-dc8f-e514-ee824e909634" testName="Passsando_letras_1A_retorna_numero_12" computerName="IMPETO56" duration="00:00:00.0002197" startTime="2011-08-16T15:47:25.1598802-03:00" endTime="2011-08-16T15:47:25.1637862-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e6c3eeda-5f41-484a-99c2-058ac94165c0">
+    </UnitTestResult>
+    <UnitTestResult executionId="ee3562ce-a3e3-4e55-ae83-fbaf6e045914" testId="4d3045ae-0683-3586-3dcc-516d31b1985e" testName="Passsando_letra_E_retorna_numero_3" computerName="IMPETO56" duration="00:00:00.0007027" startTime="2011-08-16T15:47:25.1686687-03:00" endTime="2011-08-16T15:47:25.1715982-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ee3562ce-a3e3-4e55-ae83-fbaf6e045914">
+    </UnitTestResult>
+    <UnitTestResult executionId="a2da2c54-0d3d-4195-9d81-b8cb218c6498" testId="5639571a-b0bd-ebff-f064-cbd0923ef4ef" testName="Passsando_letra_D_retorna_numero_3" computerName="IMPETO56" duration="00:00:00.0007499" startTime="2011-08-16T15:47:25.1764807-03:00" endTime="2011-08-16T15:47:25.1813632-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a2da2c54-0d3d-4195-9d81-b8cb218c6498">
+    </UnitTestResult>
+    <UnitTestResult executionId="2b8a02cf-1756-4fb3-8f50-a37c56338154" testId="639f1d21-bfe6-ef7c-722e-b05bb8459aeb" testName="Passsando_letra_B_retorna_numero_2" computerName="IMPETO56" duration="00:00:00.0008413" startTime="2011-08-16T15:47:25.1921047-03:00" endTime="2011-08-16T15:47:25.1969872-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2b8a02cf-1756-4fb3-8f50-a37c56338154">
+    </UnitTestResult>
+    <UnitTestResult executionId="a2bd4e14-fcab-428c-b246-fab084dcd5fd" testId="cced0b66-1e82-7460-cac2-eb024454e4e5" testName="Passsando_letra_C_retorna_numero_2" computerName="IMPETO56" duration="00:00:00.0002079" startTime="2011-08-16T15:47:25.2028462-03:00" endTime="2011-08-16T15:47:25.2057757-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a2bd4e14-fcab-428c-b246-fab084dcd5fd">
+    </UnitTestResult>
+    <UnitTestResult executionId="b3cabab2-345c-4683-bbf2-3f2aaf45ffa3" testId="e77124bd-e570-83ed-9934-bb07799a5ab2" testName="Passsando_letras_AA_retorna_numero_22" computerName="IMPETO56" duration="00:00:00.0002079" startTime="2011-08-16T15:47:25.2087052-03:00" endTime="2011-08-16T15:47:25.2116347-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b3cabab2-345c-4683-bbf2-3f2aaf45ffa3">
+    </UnitTestResult>
+    <UnitTestResult executionId="2408e52c-3330-44be-b698-abbefbc821d4" testId="e90b7508-50af-ea86-ae73-6cd0dbc6274d" testName="Passsando_letra_A_retorna_numero_2" computerName="IMPETO56" duration="00:00:00.0001937" startTime="2011-08-16T15:47:25.2145642-03:00" endTime="2011-08-16T15:47:25.2213997-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2408e52c-3330-44be-b698-abbefbc821d4">
+    </UnitTestResult>
+  </Results>
+</TestRun>
